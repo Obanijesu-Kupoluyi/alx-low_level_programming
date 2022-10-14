@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - void
+ * main - this function block start
  * Description - prints \"Programming is like building a miltilingual puzzle
  * Return - always return 0
  */
