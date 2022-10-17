@@ -8,7 +8,7 @@ int main(void)
 {
 	int a, b, c, d;
 
-	for (a = 48; c <= 57; a++)
+	for (a = 48; a <= 57; a++)
 	{
 		for (b = 48; b <= 57; b++)
 		{
