@@ -5,9 +5,6 @@
  */
 int main(void)
 {
-	int a;
-
-	a = '_putchar';
-	_putchar(a);
+	printf("_putchar\n");
 	return (0);
 }
